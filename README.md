@@ -4,7 +4,7 @@
 - 🌱 Quero me desenvolver em Java e JavaScript inicialmente
 - 🍓 Aceito dicas! 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=May-mqy&show_icons=true&theme=onedark&include&hide=stars)](https://github.com/May-mqy/)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=May-mqy&show_icons=true&theme=onedark&include&hide=stars&count_private=true)](https://github.com/May-mqy/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=May-mqy&layout=compact&theme=onedark&count_private=true)](https://github.com/May-mqy)
 
