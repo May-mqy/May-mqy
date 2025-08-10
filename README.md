@@ -1,7 +1,7 @@
 ## Olá! Eu sou a Mayara Vitória
 
 - 💻 Estou aprendendo a programar!
-- 🌱 Quero me desenvolver em Java e Front End inicialmente
+- 🌱 Quero me desenvolver em Java e Front-end inicialmente
 - 🍓 Aceito dicas! 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=May-mqy&show_icons=true&theme=onedark&include&hide=stars&count_private=true)](https://github.com/May-mqy/)
