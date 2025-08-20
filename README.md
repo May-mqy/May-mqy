@@ -11,10 +11,9 @@ Bem vindo(a) ao meu perfil!
 
 ##
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=May-mqy&show_icons=true&theme=onedark&include&hide=stars&count_private=true)](https://github.com/May-mqy/)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=May-mqy&count_private=true&hide=stars&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=May-mqy&layout=compact&theme=onedark&count_private=true)](https://github.com/May-mqy)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=May-mqy&layout=compact&count_private=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 
 ##
 <div> 
