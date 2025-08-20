@@ -1,5 +1,6 @@
-## Olá! Eu sou a Mayara Vitória
+## Oi! Eu sou a Mayara Vitória, Desenvolvedora Fullstack
 
+Bem vindo(a) ao meu perfil!
 - 💻 Estou aprendendo a programar!
 - 🌱 Quero me desenvolver em Java e Front-end inicialmente
 - 🍓 Aceito dicas! 
