@@ -3,7 +3,13 @@
 Bem vindo(a) ao meu perfil!
 - 💻 Estou aprendendo a programar!
 - 🌱 Quero me desenvolver em Java e Front-end inicialmente
-- 🍓 Aceito dicas! 
+- 🍓 Aceito dicas!
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+
+##
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=May-mqy&show_icons=true&theme=onedark&include&hide=stars&count_private=true)](https://github.com/May-mqy/)
 
