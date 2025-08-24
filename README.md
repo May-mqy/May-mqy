@@ -1,5 +1,6 @@
-## Oi! Eu sou a Mayara Vitória, Desenvolvedora Fullstack
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Bem-Vindo(a)!!;Eu+Sou+a+Mayara!;Sou+Desenvolvedora+Full+Stack.;)](https://git.io/typing-svg)
 
+##
 Bem vindo(a) ao meu perfil!
 - 💻 Estou aprendendo a programar!
 - 🌱 Quero me desenvolver em Java e Front-end inicialmente
