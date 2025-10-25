@@ -3,14 +3,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=A132E6&center=true&vCenter=true&width=1000&lines=Olá%2C+me+chamo+Mayara!;Desenvolvedora+Full+Stack+em+formação.)](https://git.io/typing-svg)
 
 ##
+<div align="center">  
 📚 Desenvolvedora Full Stack em formação! <br>
 💻 Estudante de ADS na FATEC <br>
 💙 Proana
-<div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
+
 
 ##
 <div align="center">  
@@ -20,11 +18,65 @@
 
 ##
 
-<div> 
-  <a href="www.linkedin.com/in/mayaravdsilva" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<div align="center">
+  <img 
+    alt="HTML"
+    title="HTML" 
+    width="40px" 
+    style="margin: 10px; display: inline-block;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+  />
+  <img 
+    alt="CSS" 
+    title="CSS"
+    width="40px" 
+    style="margin: 10px; display: inline-block;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+  />
+  <img 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="40px" 
+    style="margin: 10px; display: inline-block;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+  />
+  <img 
+    alt="MySQL" 
+    title="MySQL"
+    width="40px" 
+    style="margin: 10px; display: inline-block;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
+  />
+  <img 
+    alt="React"
+    title="React" 
+    width="40px" 
+    style="margin: 10px; display: inline-block;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+  />
+  <img 
+    alt="Git" 
+    title="Git"
+    width="40px" 
+    style="margin: 10px; display: inline-block;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+  />
+   <img 
+    alt="Java" 
+    title="Java"
+    width="40px" 
+    style="margin: 10px; display: inline-block;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
+  />
 </div>
 
 ##
+
+<div align="center">  
+  <a href="www.linkedin.com/in/mayaravdsilva" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=A132E6&height=120&section=footer"/>
 
 
