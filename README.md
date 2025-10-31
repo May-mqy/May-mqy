@@ -68,6 +68,20 @@
     style="margin: 10px; display: inline-block;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
   />
+   <img 
+    alt="Java" 
+    title="Java"
+    width="40px" 
+    style="margin: 10px; display: inline-block;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"
+  />
+  <img 
+    alt="Java" 
+    title="Java"
+    width="40px" 
+    style="margin: 10px; display: inline-block;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"
+  />
 </div>
 
 ##
