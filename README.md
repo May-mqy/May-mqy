@@ -40,6 +40,13 @@
     style="margin: 10px; display: inline-block;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
   />
+   <img 
+    alt="React"
+    title="React" 
+    width="40px" 
+    style="margin: 10px; display: inline-block;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+  />
   <img 
     alt="MySQL" 
     title="MySQL"
@@ -48,11 +55,11 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
   />
   <img 
-    alt="React"
-    title="React" 
+    alt="Java" 
+    title="Java"
     width="40px" 
     style="margin: 10px; display: inline-block;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
   />
   <img 
     alt="Git" 
@@ -61,12 +68,12 @@
     style="margin: 10px; display: inline-block;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
   />
-   <img 
-    alt="Java" 
-    title="Java"
+  <img 
+    alt="Git" 
+    title="Git"
     width="40px" 
     style="margin: 10px; display: inline-block;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" 
   />
    <img 
     alt="Java" 
