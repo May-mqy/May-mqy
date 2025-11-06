@@ -12,8 +12,8 @@
 
 ##
 <div align="center">  
-<img width="49%" height="195px" src=https://github-readme-stats.vercel.app/api?username=May-mqy&count_private=true&hide=stars&theme=material-palenight />
-<img width="40%" height="195px" src=https://github-readme-stats.vercel.app/api/top-langs/?username=May-mqy&layout=compact&count_private=true&theme=material-palenight (https://github.com/anuraghazra/github-readme-stats) />
+<img width="49%" height="195px" src=https://github-readme-stats.vercel.app/api?username=May-mqy&count_private=true&hide=stars&theme=midnight-purple />
+<img width="40%" height="195px" src=https://github-readme-stats.vercel.app/api/top-langs/?username=May-mqy&layout=compact&count_private=true&theme=midnight-purple (https://github.com/anuraghazra/github-readme-stats) />
 </div>
 
 ##
