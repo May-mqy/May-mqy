@@ -69,6 +69,13 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
   />
   <img 
+    alt="Spring" 
+    title="Spring"
+    width="40px" 
+    style="margin: 10px; display: inline-block;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"
+  />
+  <img 
     alt="Git" 
     title="Git"
     width="40px" 
@@ -76,22 +83,22 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
   />
   <img 
-    alt="Git" 
-    title="Git"
+    alt="GitHub" 
+    title="GitHub"
     width="40px" 
     style="margin: 10px; display: inline-block;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" 
   />
    <img 
-    alt="Java" 
-    title="Java"
+    alt="Figma" 
+    title="Figma"
     width="40px" 
     style="margin: 10px; display: inline-block;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"
   />
   <img 
-    alt="Java" 
-    title="Java"
+    alt="Canva" 
+    title="Canva"
     width="40px" 
     style="margin: 10px; display: inline-block;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"
