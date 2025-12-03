@@ -17,6 +17,12 @@
   (https://github.com/anuraghazra/github-readme-stats) />
 </div>
 
+<div align="center">
+  
+  ![](https://nirzak-streak-stats.vercel.app/?user=May-mqy&theme=tokyonight-duo&hide_border=false)
+  
+</div>
+
 ##
 
 <div align="center">
