@@ -6,7 +6,7 @@
 <div align="center">  
 📚 Desenvolvedora Full Stack em formação! <br>
 💻 Estudante de ADS na FATEC <br>
-💙 Proana
+💙 Ex-Proana
 </div>
 
 
