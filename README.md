@@ -96,6 +96,20 @@
     style="margin: 10px; display: inline-block;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" 
   />
+  <img 
+    alt="Visual Studio Code" 
+    title="VS Code"
+    width="40px" 
+    style="margin: 10px; display: inline-block;" 
+    src="https://camo.githubusercontent.com/b9c9b3f4d44cb0ef9fdc316cad96eb91f3e109767590d9d3fbb5eb9fd42a9870/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7673636f64652f7673636f64652d6f726967696e616c2e737667" 
+  />
+  <img 
+    alt="InteJ" 
+    title="InteJ"
+    width="40px" 
+    style="margin: 10px; display: inline-block;"
+    src="https://camo.githubusercontent.com/33d23482ad25ae9554de04e60d97d6bb0740a998de8b23b40f1481a55929b08c/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f696e74656c6c696a2f696e74656c6c696a2d6f726967696e616c2e737667" 
+  />
    <img 
     alt="Figma" 
     title="Figma"
