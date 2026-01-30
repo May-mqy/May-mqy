@@ -55,6 +55,13 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
   />
   <img 
+    alt="Node"
+    title="Node" 
+    width="40px" 
+    style="margin: 10px; display: inline-block;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" 
+  />
+  <img 
     alt="MySQL" 
     title="MySQL"
     width="40px" 
