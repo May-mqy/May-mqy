@@ -22,7 +22,7 @@
 
 <div align="center">
   
-  ![](https://nirzak-streak-stats.vercel.app/?user=May-mqy&theme=tokyonight-duo&hide_border=true&date_format=j%20M%5B%20Y%5D)
+  ![](https://nirzak-streak-stats.vercel.app/?user=May-mqy&theme=tokyonight-duo&hide_border=true&date)
   
 </div>
 
