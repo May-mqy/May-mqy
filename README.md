@@ -11,18 +11,14 @@
 
 
 ##
-<div align="center">  
-  <img width="49%" height="195px"
-       src="https://github-readme-stats.vercel.app/api?username=May-mqy&show_icons=true&include_all_commits=true&hide=stars&theme=jolly&&hide_border=true" />
-
-  <img width="40%" height="195px"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=May-mqy&layout=compact&theme=jolly&&hide_border=true" />
-</div>
-
+<p align="center">
+  <img height="195px" src="https://github-readme-stats.vercel.app/api?username=May-mqy&show_icons=true&include_all_commits=true&hide=stars&theme=tokyonight&hide_border=true"/>
+  <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=May-mqy&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
 <div align="center">
   
-  ![](https://nirzak-streak-stats.vercel.app/?user=May-mqy&theme=tokyonight-duo&hide_border=true&date)
+  ![](https://nirzak-streak-stats.vercel.app/?user=May-mqy&theme=tokyonight&hide_border=true&date)
   
 </div>
 
