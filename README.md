@@ -9,10 +9,11 @@
 </div>
 
 
-##
+### 
+
 <p align="center">
-  <img height="195px" src="https://github-readme-stats.vercel.app/api?username=May-mqy&show_icons=true&include_all_commits=true&hide=stars&theme=tokyonight&hide_border=true"/>
-  <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=May-mqy&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=May-mqy&show_icons=true&theme=tokyonight"&hide_border=true/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=May-mqy&layout=compact&langs_count=7&theme=tokyonight"&hide_border=true/>
 </p>
 
 <div align="center">
