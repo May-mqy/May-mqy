@@ -5,7 +5,8 @@
 <div align="center">  
 📚 Desenvolvedora Full Stack em formação <br>  
 💻 Estudante de Análise e Desenvolvimento de Sistemas (FATEC) <br>
-🚀 Ex-aluna PROA | Apaixonada por tecnologia e aprendizado contínuo
+🚀 Ex-aluna PROA | Apaixonada por tecnologia e aprendizado contínuo <br>
+✈ Aprendiz na Azul Linhas Áereas 
 </div>
 
 
