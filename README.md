@@ -27,8 +27,8 @@
   <img src="https://img.shields.io/badge/%20GitHub%20%20Statistics-542581?style=for-the-badge" />
 </p>
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=May-mqy&show_icons=true&theme=tokyonight"&hide_border=true/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=May-mqy&layout=compact&langs_count=7&theme=tokyonight"&hide_border=true/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=May-mqy&show_icons=true&theme=material-palenight"&hide_border=true/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=May-mqy&layout=compact&langs_count=7&theme=material-palenight"&hide_border=true/>
 </p>
 
 <div align="center">
