@@ -22,20 +22,6 @@
 
 </table>
 
-### 
-<p align="center">
-  <img src="https://img.shields.io/badge/%20GitHub%20%20Statistics-542581?style=for-the-badge" />
-</p>
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=May-mqy&show_icons=true&theme=material-palenight"&hide_border=true/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=May-mqy&layout=compact&langs_count=7&theme=material-palenight"&hide_border=true/>
-</p>
-
-<div align="center">
-  
-  ![](https://nirzak-streak-stats.vercel.app/?user=May-mqy&theme=tokyonight&hide_border=true&date)
-  
-</div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/%20Tecnologias%20%26%20Ferramentas-542581?style=for-the-badge" />
